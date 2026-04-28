@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Gianmarco Cavallo - Freelance front-end Developer",
-    "description": "I'm a developer based in Italy, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
+    "title": "BitwiseNotation - Freelance Full stack Developer",
+    "description": "I'm a developer based in Canada, passionate about user experience and specializing in engaging animations and micro-interactions. My primary tools of choice include: JavaScript, React, Solid.js, Astro, Svelte, and Node.js.",
     "footer": {
       "year": "2026",
       "prefix": "Built on",
@@ -11,40 +11,40 @@
     }
   },
   "seo": {
-    "personName": "Gianmarco",
-    "jobTitle": "Freelance Frontend Developer",
+    "personName": "Yudhvir Singh",
+    "jobTitle": "Freelance Software Developer",
     "worksFor": "Self-Employed",
-    "location": "Italy",
-    "countryCode": "IT",
-    "nationality": "Italy",
-    "publisherName": "Gianmarco",
+    "location": "Canada",
+    "countryCode": "CA",
+    "nationality": "Indian",
+    "publisherName": "Yudhvir Singh",
     "sameAs": [
-      "https://www.linkedin.com/in/gianmarco-cavallo/",
-      "https://github.com/Ladvace"
+      "https://www.linkedin.com/in/yudhvirsingh1/",
+      "https://github.com/BitWiseNotation"
     ]
   },
   "intro": {
     "welcomeLabel": "welcome",
-    "name": "Gianmarco Cavallo",
+    "name": "Yudhvir Singh",
     "summary": "a software developer with strong focus on the user experience, animations and micro interactions",
     "socialButtons": [
       {
         "ariaLabel": "github profile",
         "screenReaderLabel": "GitHub Profile",
         "icon": "ri:github-fill",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/BitWiseNotation"
       },
       {
         "ariaLabel": "linkedin profile",
         "screenReaderLabel": "Linkedin Profile",
         "icon": "ri:linkedin-box-fill",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/yudhvirsingh1/"
       },
       {
         "ariaLabel": "dribble profile",
         "screenReaderLabel": "Dribble Profile",
         "icon": "ri:dribbble-fill",
-        "url": "https://dribbble.com/Ladvace_Jace"
+        "url": "https://dribbble.com/BitwiseNotation"
       }
     ],
     "supportLink": {
@@ -59,7 +59,7 @@
   },
   "about": {
     "title": "About me",
-    "intro": "Hi, I'm Gianmarco, a front-end software developer from Italy.",
+    "intro": "Hi, I'm BitwiseNotation, a Full stack software developer.",
     "toolsIntro": "My primary tools of choice includes:",
     "tools": [
       "JavaScript",
@@ -75,17 +75,17 @@
   "contacts": {
     "title": "Let's start working together!",
     "contactDetailsTitle": "Contact Details",
-    "email": "contact@gianmarcocavallo.com",
-    "location": "Italy",
+    "email": "contact@bitwisenotation.com",
+    "location": "Canada",
     "socialsTitle": "Socials",
     "socialLinks": [
       {
         "label": "Linkedin",
-        "url": "https://www.linkedin.com/in/gianmarco-cavallo/"
+        "url": "https://www.linkedin.com/in/yudhvirsingh1/"
       },
       {
         "label": "Github",
-        "url": "https://github.com/Ladvace"
+        "url": "https://github.com/BitWiseNotation"
       },
       {
         "label": "Discord",
